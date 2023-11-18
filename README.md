@@ -1,4 +1,4 @@
-# PlanetSimulation#
+# PlanetSimulation
 
 This is a 3D planet simulation where instead of orbiting the sun, the planets orbit Earth. 
 
